@@ -1,0 +1,3 @@
+没事弄的一个APP类别识别系统，输入简介那种
+开发用的flask框架
+拿CountVectorizer和SVM搭配做的检测方法，用tfidf加了一个小标签
